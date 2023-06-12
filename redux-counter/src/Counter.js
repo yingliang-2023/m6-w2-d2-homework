@@ -38,6 +38,7 @@ class Counter extends React.Component {
                      <span>{this.props.count}</span>
                      <button onClick={this.decrement}>-</button>
                      <button onClick={this.increment}>+</button>
+                     <button onClick={this.reset}>reset</button>
                 </div>
             </div>
         )
