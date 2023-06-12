@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+.counterDiv{
+  width:250px;
+  height:80px;
+  padding:10px;
+  background-color: #61dafb;
+}
+
+button{
+  margin:10px;
+}
+
+span{
+  border:solid;
+  color:beige;
+  padding: 5px;
+}
